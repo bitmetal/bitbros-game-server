@@ -1,0 +1,23 @@
+{
+  "name": "bitbros-game-server",
+  "version": "1.0.0",
+  "description": "Node/Express game server for bitbros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ltmechanicus/bitbros-game-server.git"
+  },
+  "author": "Lucas Wu-Fienberg <lucas.fienberg@gmail.com> (http://bitbros.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ltmechanicus/bitbros-game-server/issues"
+  },
+  "homepage": "https://github.com/ltmechanicus/bitbros-game-server",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "express": "^4.14.0"
+  }
+}
